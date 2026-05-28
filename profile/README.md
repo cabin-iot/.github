@@ -5,5 +5,7 @@ Elle utilise des capteurs de présence installés dans chaque cabine indiquant s
 
 ## Architecture
 
+![](../img/architecture_cabin.png)
+
 ## Technologies utilisées
 
